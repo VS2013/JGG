@@ -1,0 +1,14 @@
+﻿ * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .box {
+            width: 30%;
+           margin: 1%;
+            border: 1px solid black;
+            float: left;
+            padding: 15% 0;
+            background: yellow;
+           border-radius:10%
+        }
